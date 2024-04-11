@@ -20,6 +20,10 @@
 
 **Option A: Python + Replit Deployments**
 
+## a web game
+
+**Option A: VanillaJS + ExpressJS + Websockets**
+
 ## a massive multiplayer JavaScript game
 
 **Option A: VanillaJS + ExpressJS + Websockets**
@@ -28,6 +32,8 @@
 
 **Option A: ReactJS + OpenAI Assistants API**
 - This dangerously exposes the OpenAI API key, but is easy to fix by adding a backend.
+
+📹 We are building a healthcare chatbot with OpenAI: [(1)](https://www.youtube.com/watch?v=lMYQ6EGsBAA&t=193s) [(2)](https://www.youtube.com/watch?v=ehMdsDNk_4s)
 
 ## a script to automate website actions
 **Option A: Python + Playwright**
@@ -38,4 +44,6 @@
 - Pricing is $30/month to export the entire app.
 - Must manually setup Firebase and follow steps to integrate before the database works.
 
-**Option B: React Native**
+📹 We are building an immersive storytelling app: [(1)](https://www.youtube.com/watch?v=cguKaPnIzs4) [(2)](https://www.youtube.com/watch?v=RSAOh_dnL3E)
+
+**Option B: React Native and Expo**
