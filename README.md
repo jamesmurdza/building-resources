@@ -9,8 +9,11 @@
 ## a web app with a user-based CMS
 
 **Option A: Bubble**
+- Best option for those with no coding experience
 
 **Option B: ReactJS + Firebase**
+- Least effort option of all solutions for coding
+- Requires a new Firebase project to be set up
 
 **Option C: NextJS + Firebase**
 
