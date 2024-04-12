@@ -33,13 +33,17 @@
 
 ## a web game
 
-**Option A: VanillaJS + ExpressJS + Websockets**
+**Option A: PhaserJS**
+- Start with a very simple template like this: [game.js](https://gist.github.com/jamesmurdza/a393c11761c9183cb8bdfc1c0622a509)
+- Use ChatGPT or the PhaserJS documentation to incrementally add features.
 
-📹 We're building a multiplayer web game and MakeWithGPT.com: [(1)](https://www.youtube.com/watch?v=4HUK9DayZpA)
+📹 We are building a Zuckerberg vs Elon fight game: [(1)](https://www.youtube.com/watch?v=UdxLivO4E58)
 
 ## a massive multiplayer JavaScript game
 
 **Option A: VanillaJS + ExpressJS + Websockets**
+
+📹 We're building a multiplayer web game and MakeWithGPT.com: [(1)](https://www.youtube.com/watch?v=4HUK9DayZpA)
 
 ## a JavaScript chatbot
 
@@ -50,6 +54,9 @@
 
 ## a script to automate website actions
 **Option A: Python + Playwright**
+- Use ChatGPT to generate Playwright code, test and iterate. To run at scale, use [Apify](https://apify.com/).
+
+📹 We are building an AI Reddit Bot: [(1)]([https://www.youtube.com/watch?v=cguKaPnIzs4](https://www.youtube.com/watch?v=plM-zYaJtoI))
 
 ## a cross-platform mobile app
 
