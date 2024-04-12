@@ -17,6 +17,15 @@
   </dd></dl>
 </details>
 
+<details>
+  <summary><strong>Parcel w/ Tempate</strong></summary>
+  <p>~</p>
+
+  <dl><dd>
+  ℹ️ This is my next choice to try! Start here: <a href="https://github.com/fregante/browser-extension-template">fregante/browser-extension-template</a>
+  </dl></dd>
+</details>
+
 ## 🌐 a web app with a user-based CMS
 
 <details>
