@@ -51,7 +51,7 @@
   <p>~</p>
   
   <dl><dd>
-  📹 We're building a website for making and sharing cheatsheets!: <a href="https://www.youtube.com/watch?v=zooJf32chZw">(2)</a>
+  📹 We're building a website for making and sharing cheatsheets!: <a href="https://www.youtube.com/watch?v=nP6OkxvsECI">(1)</a> <a href="https://www.youtube.com/watch?v=zooJf32chZw">(2)</a>
   </dd></dl>
 </details>
 
@@ -64,7 +64,7 @@
   <p>~</p>
   
   <dl><dd>
-  📹 We're building a YouTube trends Telegram bot: <a href="https://www.youtube.com/watch?v=WJAgZ5XFyks">(1)</a> <a href="https://www.youtube.com/watch?v=9-WmrsRD1nM">(2)</a> <a href="https://www.youtube.com/watch?v=Sne-jLg3Jro">(3)</a> <a href="https://www.youtube.com/watch?v=WJAgZ5XFyks">(5)</a>
+  📹 We're building a YouTube trends Telegram bot: <a href="https://www.youtube.com/watch?v=WJAgZ5XFyks">(1)</a> <a href="https://www.youtube.com/watch?v=9-WmrsRD1nM">(2)</a> <a href="https://www.youtube.com/watch?v=Sne-jLg3Jro">(3)</a> <a href="https://www.youtube.com/watch?v=nnupHJqJQNA">(4)</a> <a href="https://www.youtube.com/watch?v=WJAgZ5XFyks">(5)</a>
   </dd></dl>
 </details>
 
@@ -111,7 +111,7 @@
   </dl></dd>
   
   <dl><dd>
-  📹 We are building a healthcare chatbot with OpenAI: <a href="https://www.youtube.com/watch?v=lMYQ6EGsBAA&t=193s">(1)</a> <a href="https://www.youtube.com/watch?v=ehMdsDNk_4s">(2)</a>
+  📹 We are building a healthcare chatbot with OpenAI: <a href="https://www.youtube.com/watch?v=lMYQ6EGsBAA">(1)</a> <a href="https://www.youtube.com/watch?v=ehMdsDNk_4s">(2)</a>
   </dd></dl>
 </details>
 
@@ -146,6 +146,10 @@
   
   <dl><dd>
   📹 We are building an immersive storytelling app: <a href="https://www.youtube.com/watch?v=cguKaPnIzs4">(1)</a> <a href="https://www.youtube.com/watch?v=RSAOh_dnL3E">(2)</a>
+  </dd><dd>
+  📹 We are building a GoFundMe app for orphanages and charities in Pakistan: <a href="https://www.youtube.com/watch?v=FIwaHhcnvFc">(1)</a>
+  </dd><dd>
+  📹 We are building a companion app for inner journeys: <a href="https://www.youtube.com/watch?v=LdHwtzwIhHQ">(1)</a>
   </dd></dl>
 </details>
 
