@@ -64,6 +64,12 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
   <summary><strong>Vue/Nuxt + Firebase</strong></summary>
   
   <p>~</p>
+
+  <dl><dd>
+  ℹ️ Get started here: <a href="https://github.com/posva/nuxt--vuefire-example-spark-plan">posva/nuxt--vuefire-example-spark-plan</a> or <a href="https://github.com/posva/nuxt--vuefire-example-blaze-plan">posva/nuxt--vuefire-example-blaze-plan</a>
+  </dd><dd>
+  ℹ️ Follow the instructions carefully
+  </dl></dd>
   
   <dl><dd>
   📹 We're building a website for making and sharing cheatsheets!: <a href="https://www.youtube.com/watch?v=nP6OkxvsECI">(1)</a> <a href="https://www.youtube.com/watch?v=zooJf32chZw">(2)</a>
