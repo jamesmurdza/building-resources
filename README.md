@@ -56,6 +56,8 @@
   </dd></dl>
 </details>
 
+ **NextJS + Firebase**
+
 <details>
   <summary><strong>Vue/Nuxt + Firebase</strong></summary>
   
@@ -97,6 +99,8 @@
   </dd></dl>
 </details>
 
+**ReactJS + PhaserJS**
+
 ## 🎮 a massive multiplayer JavaScript game
 
 <details>
@@ -125,6 +129,8 @@
   📹 We are building a healthcare chatbot with OpenAI: <a href="https://www.youtube.com/watch?v=lMYQ6EGsBAA">(1)</a> <a href="https://www.youtube.com/watch?v=ehMdsDNk_4s">(2)</a>
   </dd></dl>
 </details>
+
+**NextJS + OpenAI Assistants API**
 
 ## 🤖 a script to automate website actions
 
@@ -165,6 +171,8 @@
   📹 We are building a companion app for inner journeys: <a href="https://www.youtube.com/watch?v=LdHwtzwIhHQ">(1)</a>
   </dd></dl>
 </details>
+
+**Dart/Flutter**
 
 <details>
   <summary><strong>React Native and Expo</strong></summary>
