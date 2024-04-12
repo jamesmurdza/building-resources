@@ -54,7 +54,13 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
   </dl></dd>
   
   <dl><dd>
-  📹 We are building a food truck app in ReactJS: <a href="https://www.youtube.com/watch?v=olTwm9MokWo">(1)</a> <a href="https://www.youtube.com/watch?v=30CXfEThX7I">(2)</a>
+    <table>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=olTwm9MokWo" target="_blank"> <img src="https://img.youtube.com/vi/olTwm9MokWo/maxresdefault.jpg" width="80"/> Ep 1.</a></td>
+    <td><a href="https://www.youtube.com/watch?v=30CXfEThX7I" target="_blank"> <img src="https://img.youtube.com/vi/30CXfEThX7I/maxresdefault.jpg" width="80"/> Ep 2.</a></td>
+  </tr>
+  <caption>📹 We're building a food truck app in ReactJS:</caption>
+</table>
   </dd></dl>
 </details>
 
