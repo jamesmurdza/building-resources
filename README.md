@@ -1,5 +1,7 @@
 # 🛠️ I want to build...
 
+Almost every day I am [streaming](https://jamesmurdza.com/) various types of app projects on [my YouTube channel](https://www.youtube.com/@jamesmurdza). My goal is to try out as many frameworks, tools and templates as possible to save you the effort. This is an index of everything I have tried or plan to try, with key notes and findings.
+
 ## 📦 a Chrome extension
 
 <details>
