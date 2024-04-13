@@ -150,7 +150,7 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
   <p>~</p>
   
   <dl><dd>
-  ℹ️ Start with a very simple template like this: <a href="[https://gist.github.com/jamesmurdza/a393c11761c9183cb8bdfc1c0622a509](https://gist.github.com/jamesmurdza/d2baf163116875ceb9706db5f77fff9f)" target="_blank">Main.java</a
+  ℹ️ Start with a very simple template like this: <a href="https://gist.github.com/jamesmurdza/a393c11761c9183cb8bdfc1c0622a509" target="_blank">Main.java</a
 
 >
   </dd><dd>
