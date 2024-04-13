@@ -142,10 +142,10 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
 
 **ReactJS + PhaserJS**
 
-## 🎮 a 2D Java game
+## 🎮 a 2D desktop game
 
 <details>
-  <summary><strong>Swing</strong></summary>
+  <summary><strong>Java + Swing</strong></summary>
   
   <p>~</p>
   
@@ -158,7 +158,7 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
   </dl></dd>
 </details>
 
-## 🎮 a massive multiplayer JavaScript game
+## 🎮 a massive multiplayer web game
 
 <details>
   <summary><strong>VanillaJS + ExpressJS + Websockets</strong></summary>
@@ -200,7 +200,7 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
 
 **NextJS + OpenAI Assistants API**
 
-## 🤖 a script to automate website actions
+## 🤖 a script to automate web actions
 
 <details>
   <summary><strong>Python + Playwright</strong></summary>
