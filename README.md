@@ -36,7 +36,7 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
 ## 🌐 a web app with a user-based CMS
 
 <details>
-  <summary><strong>Bubble</strong></summary>
+  <summary><strong>Bubble (Low-code)</strong></summary>
   
   <p>~</p>
   
@@ -208,7 +208,7 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
 ## 📱 a cross-platform mobile app
 
 <details>
-  <summary><strong>FlutterFlow</strong></summary>
+  <summary><strong>FlutterFlow (Low-code)</strong></summary>
   
   <p>~</p>
   
