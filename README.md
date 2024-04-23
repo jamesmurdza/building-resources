@@ -69,6 +69,27 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
   </dd></dl>
 </details>
 
+<details>
+  <summary><strong>Django + SQLite</strong></summary>
+  
+  <p>~</p>
+  
+  <dl><dd>
+  ℹ️ Least effort option of solutions with a backend
+  </dd><dd>
+  ℹ️ Most providers will charge for Django hosting
+  </dl></dd>
+  
+  <dl><dd>
+    <table>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=WQ4ZHXQzYqw" target="_blank"> <img src="https://img.youtube.com/vi/WQ4ZHXQzYqw/maxresdefault.jpg" width="80"/> Ep 1</a></td>
+  </tr>
+  <caption>We're building a crochet of the day website:</caption>
+</table>
+  </dd></dl>
+</details>
+
 **NextJS + Firebase**
 
 <details>
