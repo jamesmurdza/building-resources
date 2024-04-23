@@ -90,7 +90,7 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
   </dd></dl>
 </details>
 
-**NextJS + Firebase**
+**NextJS + PostgreSQL**
 
 <details>
   <summary><strong>Vue/Nuxt + Firebase</strong></summary>
