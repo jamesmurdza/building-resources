@@ -126,6 +126,8 @@ Almost every day I am [streaming](https://jamesmurdza.com/) various types of app
 
 **Voiceflow (Low-code)**
 
+**Chainlit**
+
 ## 🤖 a Telegram bot
 
 <details>
